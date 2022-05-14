@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu Perfil 
+## Bem-vindo(a) ao meu Perfil ! | Welcome to my Profile !
 
  <div>
   <a href="https://github.com/efarias03">
@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Links Úteis | Useful Links
  
 <div> 
   <a href="https://www.instagram.com/euenzo_f/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
