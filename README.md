@@ -1,4 +1,4 @@
-##  Welcome to my Profile | Bem-vindo(a) ao meu Perfil 
+##  Welcome to my Profile 
 
  <div>
   <a href="https://github.com/efarias03">
@@ -19,7 +19,7 @@
  
  <br>
  
-  ### Useful Links | Links Úteis 
+  ### Useful Links 
  
 <div> 
   <a href="https://www.linkedin.com/in/enzo-farias-b24866219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
