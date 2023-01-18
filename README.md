@@ -15,7 +15,7 @@
 </div>
 
 <div align="right">
-    ![](https://github.com/Gif/giphy.gif)
+    
  </div>
 </div>
  <br>
