@@ -1,11 +1,11 @@
 ##  Welcome to my Profile 
 
- <div align="left">
+ <div align="center">
     <a href="https://github.com/efarias03">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=efarias03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efarias03&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-<div align="right">
+<div align="center">
     ## test
 </div>
 <div style="display: inline_block"><br>
