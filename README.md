@@ -15,7 +15,7 @@
 </div>
 
 <div align="right">
-    <iframe src="https://giphy.com/embed/NwzrMu9rsg4NunUXKZ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Edgerunners-anime-cyberpunk-edgerunners-NwzrMu9rsg4NunUXKZ"></a></p>
+    ![](https://github.com/Gif/giphy.gif)
  </div>
 </div>
  <br>
