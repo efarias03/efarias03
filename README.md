@@ -1,12 +1,9 @@
 ##  Welcome to my Profile 
 
- <div align="center">
-    <a href="https://github.com/efarias03">
-    
-</div>
 <div align="center">
+<div align="left">
     ## test
-</div>
+ 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,8 +11,14 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+ </div>
 </div>
- 
+
+<div align="right">
+    <a href="https://github.com/efarias03">
+    
+ </div>
+</div>
  <br>
  
   ### Useful Links 
