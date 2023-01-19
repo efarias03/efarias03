@@ -32,7 +32,7 @@
  
   <br>
  
- <div align="center">
+ <div>
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=efarias03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efarias03&layout=compact&langs_count=6&theme=tokyonight"/>
  </div>
